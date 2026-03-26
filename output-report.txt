@@ -1,0 +1,15 @@
+Project: Student Performance Predictor - main.py
+
+--- Output ---
+Student Predictor
+Score  Att  Hrs  Result
+79     88    8     1
+54     52    7     0
+60     99    3     0
+81     57    5     1
+34     71    5     0
+
+Accuracy: 84.33%
+
+Python version: 
+Python 3.13.5
