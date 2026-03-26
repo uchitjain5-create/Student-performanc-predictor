@@ -1,0 +1,9 @@
+Student Predictor
+   score  att  hrs  res
+0     34   73    0    0
+1     39   50    2    0
+2     33   86    1    0
+3     60   68    1    0
+4     49   67    5    0
+accuracy: 0.8833
+saved model.joblib
